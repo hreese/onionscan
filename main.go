@@ -8,7 +8,7 @@ import (
 	"github.com/s-rah/onionscan/onionscan"
 	"github.com/s-rah/onionscan/onionscan/steps"
 	"github.com/s-rah/onionscan/report"
-	"github.com/s-rah/onionscan/utils"
+	"github.com/s-rah/hreese/utils"
 	"github.com/s-rah/onionscan/webui"
 	"golang.org/x/crypto/ssh/terminal"
 	"io/ioutil"
